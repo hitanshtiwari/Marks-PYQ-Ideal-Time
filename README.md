@@ -2,7 +2,7 @@
 
 A small Tampermonkey userscript for [Marks](https://getmarks.app/) that shows the **ideal time to solve a PYQ** and compares it with your actual solve time.
 
-I made this because I struggle with time management while doing PYQs. Marks already tells you how long you took, but I wanted a simple benchmark for **how long I was supposed to take for that specific question**.
+I made this because I struggle with time management while doing PYQs. Marks already tells you how long you took, but I wanted a simple benchmark for **how long I should roughly aim to take for that specific question**.
 
 ## Features
 
@@ -27,11 +27,9 @@ Tampermonkey is a browser extension that lets you install and run userscripts.
 
 ### 2. Install this script
 
-Download/open the `.user.js` file from this repository.
+Download/open the `marks-show-ideal-time.js` file from this repository.
 
-If you open a `.user.js` URL, Tampermonkey should show an installation page. Click **Install**.
-
-You can also open the script in Tampermonkey and paste the code manually. Tampermonkey's official guide covers both methods.
+Open Tampermonkey, create a new script, and paste the code into the editor. Save the script. Tampermonkey's official guide above explains this in detail.
 
 ### 3. Open Marks
 
