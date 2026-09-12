@@ -11,16 +11,8 @@ I made this because I struggle with time management while doing PYQs. Marks alre
 - Tells you whether you were **faster, slower, or roughly on pace**.
 - Uses a small tolerance range so tiny differences aren't treated as a big deal.
 - Works with questions you've already solved.
-- Handles the **Solve Again** flow.
-- Updates automatically as you move between questions.
-- Keeps the display inside the question area instead of using a floating widget.
-- Includes a compact dark-themed UI.
+- Keeps the display inside the question area and only shows it after you've solved the question.
 
-### Example
-
-> **Ideal time:** 02:00  
-> **You:** 03:04  
-> **You took 1 min 4 sec longer than the ideal pace.**
 
 The ideal time is simply the value provided by Marks for that question, so treat it as a benchmark rather than an absolute rule.
 
@@ -51,7 +43,7 @@ Go to [getmarks.app](https://getmarks.app/) and open a PYQ. The panel should app
 
 This is a userscript built around the current Marks website/API, so it may stop working if Marks changes its frontend or API.
 
-The code is also very much **vibe-coded**. I built and tested it with AI assistance rather than writing the whole thing as an experienced JavaScript developer.
+The code is also very much **vibecoded**. I built and tested it with AI assistance rather than writing the whole thing as an experienced JavaScript developer.
 
 So if you actually know JavaScript, browser scripting, or Tampermonkey and notice something that can be improved, please feel free to suggest changes, fork it, or rewrite parts of it.
 
