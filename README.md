@@ -49,3 +49,7 @@ So if you actually know JavaScript, browser scripting, or Tampermonkey and notic
 
 This is an unofficial community-made script and is not affiliated with Marks.
 
+
+<img width="1919" height="883" alt="image" src="https://github.com/user-attachments/assets/f9722319-f242-46f3-a1fc-b9756ef8e4a6" />
+
+
